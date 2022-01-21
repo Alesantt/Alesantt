@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Alesantt
-- 👀 I’m interested in a new career and change my life. Programming/Coding is a whole new opportunity for me.
+- 👋 Hi, I’m @Alesantt, aka Alexandre, or just "Ale".
+- 👀 I’m interested in a new career to change my life. Programming/Coding is a whole new opportunity for me.
 - 🌱 I’m currently learning Front-End/Qa. 
-- 💞️ I’m looking to collaborate on pretty much any stuff. Since i'm new programmer, i need to get experience and learn everything  can.
+- 💞️ I’m looking to collaborate on pretty much any stuff. Since i'm beginner, i need to get experience and learn everything can.
 - 📫 And you can talk with me via e-mail =)
